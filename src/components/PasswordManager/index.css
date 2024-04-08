@@ -1,0 +1,167 @@
+.bg-container {
+  background-color: #9ba9eb;
+  background-size: cover;
+  padding: 80px;
+}
+
+.app-logo {
+  height: 50px;
+  width: 150px;
+
+  margin-bottom: 10px;
+}
+
+.card1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  background-color: #5763a5;
+  padding: 40px;
+
+  border-radius: 5px;
+
+  margin-bottom: 10px;
+}
+
+.pm-img {
+  width: 40%;
+}
+.user-input {
+  width: 40%;
+  background-color: #454f84;
+  padding: 20px;
+
+  border-radius: 20px;
+}
+.heading1 {
+  color: #f8fafc;
+  font-size: 20px;
+  font-weight: bold;
+}
+.box {
+  background-color: #f8fafc;
+  height: 50px;
+
+  display: flex;
+  flex-direction: row;
+
+  border-radius: 5px;
+
+  margin-bottom: 20px;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+
+  margin: 10px;
+}
+
+.input {
+  color: #454f84;
+  font-size: 15px;
+  padding-left: 20px;
+
+  outline: none;
+  border: none;
+
+  border-left: 1px solid #94a3b8;
+}
+
+.add-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.add-btn {
+  background-color: #0b69ff;
+  color: #f8fafc;
+  height: 30px;
+  width: 80px;
+
+  border-radius: 5px;
+}
+
+.card2 {
+  background-color: #5763a5;
+  padding: 30px;
+
+  border-radius: 5px;
+
+  margin-bottom: 10px;
+}
+
+.your-passwords-card {
+  display: flex;
+  flex-direction: row;
+}
+
+.count-box {
+  color: #ffffff;
+  width: 30px;
+  text-align: center;
+
+  border: 1px solid #f8fafc;
+  border-radius: 3px;
+
+  margin-left: 30px;
+}
+
+.card-22 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  background-color: #f8fafc;
+  height: 30px;
+}
+.search-img {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.search-input {
+  outline: none;
+  border: none;
+}
+
+.no-passwords {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-passwords-img {
+  width: 50%;
+}
+
+.show-p-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.heading2 {
+  color: #f8fafc;
+  font-size: 15px;
+}
+
+.password-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  padding: 0px;
+  margin: 0px;
+}

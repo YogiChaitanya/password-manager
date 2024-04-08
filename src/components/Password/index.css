@@ -1,0 +1,48 @@
+.password-card {
+  width: 300px;
+  padding: 20px;
+  height: 100px;
+
+  border: 1px solid #b6c3ca;
+  margin: 10px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.fl-container {
+  background-color: #10b981;
+  height: 50px;
+  width: 50px;
+  color: #ffffff;
+  font-weight: bold;
+
+  border-radius: 50px;
+
+  margin-right: 5px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputs-container {
+  padding: 10px;
+  color: #ffffff;
+}
+
+.stars {
+  width: 150px;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+}
+
+.delete-img {
+  height: 20px;
+  width: 20px;
+}
